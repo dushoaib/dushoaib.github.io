@@ -1,5 +1,5 @@
 ---
-permalink: /presentations/
+permalink: /Presentations/
 title: "Presentations"
 ---
 
